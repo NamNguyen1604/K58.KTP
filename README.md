@@ -55,6 +55,10 @@
 
 ![image](https://github.com/user-attachments/assets/9be49788-d27f-4da3-96c0-8926b3366a4b)
 
-![image](https://github.com/user-attachments/assets/e7a984eb-8222-4df9-9db8-7beca0090520)
+![image](https://github.com/user-attachments/assets/57517569-9682-4221-b5ca-8cabc3324ce5)
 
-![image](https://github.com/user-attachments/assets/3c5cc19e-0d92-4446-b9b3-6c98ac0f71bb)
+![image](https://github.com/user-attachments/assets/fd4a82c7-cc52-4ff2-bece-6ec2dbf7903f)
+
+# Bước 3 : Lệnh truy vấn để tính điểm thành phần của sinh viên
+-Click chuột phải vào database QLSV sau đó nhấn New Query tạo trang truy vấn mới để nhập code.
+![image](https://github.com/user-attachments/assets/890eae2e-f9af-4823-9c2d-654ab77f13b2)
